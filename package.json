@@ -1,0 +1,14 @@
+{
+  "name": "webp_animated_checker",
+  "version": "1.0.0",
+  "description": "A script to check if a webp file is animated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ellian",
+  "license": "ISC",
+  "dependencies": {
+    "is-animated": "^2.0.1"
+  }
+}
